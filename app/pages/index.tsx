@@ -45,11 +45,6 @@ const UserInfo = () => {
             <strong>Login</strong>
           </a>
         </Link>
-        <Link href={Routes.TailwindAuthPage()}>
-          <a className="button small">
-            <strong>Login</strong>
-          </a>
-        </Link>
       </>
     )
   }
